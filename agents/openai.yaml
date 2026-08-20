@@ -1,0 +1,3 @@
+display_name: 新力通会议纪要
+short_description: 将中文会议转写整理成公司标准 Word 会议纪要。
+default_prompt: 请根据会议原始记录，整理并输出新力通标准格式会议纪要 Word 文件。
